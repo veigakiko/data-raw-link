@@ -1,0 +1,548 @@
+Cliente,Produto,Quantidade,Data,Status
+GLEICE,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-02-08 01:22:22.217769,Received - Debited
+Gabriel Mestriner,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-02-08 01:22:09.215257,Received - Debited
+Gabriel Mestriner,Espeto de 7,1,2025-02-08 01:22:09.215257,Received - Debited
+Gabriel Mestriner,Espeto de 7,1,2025-02-08 01:22:09.215257,Received - Debited
+Gabriel Mestriner,Coca Cola Lata 350ml,1,2025-02-08 01:22:09.215257,Received - Debited
+Gabriel Mestriner,Água Mineral Claríssima 510ML,1,2025-02-08 01:22:09.215257,Received - Debited
+Bruna Loureiro,Cerveja Stella Artois Pure Gold Puro Malte Long Neck 330ml,1,2025-02-08 01:21:55.023498,Received - Credit
+Bruna Loureiro,Água Mineral Claríssima 510ML,2,2025-02-08 01:21:55.023498,Received - Credit
+Vinícius Alaque,Coca Cola Lata 350ml,1,2025-02-08 01:21:46.186744,Received - Pix
+Vini,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-02-08 01:21:08.263871,em aberto
+Vini,Guaraná Antarctica Lata 350ml,1,2025-02-08 01:21:02.996348,em aberto
+Aline Soares,Água Mineral Claríssima 510ML,1,2025-02-05 21:12:13.584145,em aberto
+Breno Vieira,Coca Cola Zero Lata 350ml,1,2025-02-04 23:43:28.721663,Received - Debited
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-02-04 23:43:28.721663,Received - Debited
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-02-04 23:43:28.721663,Received - Debited
+Breno Vieira,Pizza Funchal,1,2025-02-04 23:43:28.721663,Received - Debited
+Rafaela Piva,Espeto de 7,1,2025-02-04 23:43:14.039269,Received - Credit
+Rafaela Piva,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-02-04 23:43:14.039269,Received - Credit
+Vini,Guaraná Antarctica Lata 350ml,1,2025-02-04 23:37:42.288520,em aberto
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-02-04 22:28:10.992742,Received - Credit
+Matheus Azevedo,Água Mineral Claríssima 510ML,1,2025-02-04 21:08:20.324615,Received - Debited
+Matheus Azevedo,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-02-04 21:08:20.324615,Received - Debited
+Enzo Puga,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-02-04 21:06:36.636586,Received - Pix
+Vini,Espeto de 7,1,2025-02-04 01:01:47.825887,em aberto
+Beach Bar,Água Mineral Claríssima 510ML,1,2025-02-04 00:09:22.961395,Received - Cash
+Danilo Ribeiro,Espeto de 7,1,2025-02-04 00:08:25.745699,Received - Pix
+Danilo Ribeiro,Água Mineral Claríssima 510ML,1,2025-02-04 00:08:25.745699,Received - Pix
+Danilo Ribeiro,Coca Cola Lata 350ml,1,2025-02-04 00:08:25.745699,Received - Pix
+Danilo Ribeiro,Água Mineral Claríssima 510ML,1,2025-02-04 00:08:25.745699,Received - Pix
+Everton Scudeler,Água Mineral Claríssima 510ML,1,2025-02-04 00:05:45.348426,Received - Debited
+Everton Scudeler,Água Mineral Claríssima 510ML,1,2025-02-04 00:05:45.348426,Received - Debited
+Rene,Coca Cola Lata 350ml,2,2025-02-03 23:25:11.656439,Received - Credit
+Bruna e Rafael,Água Mineral Claríssima 510ML,1,2025-02-03 23:24:14.934957,Received - Debited
+Tato,Água Mineral Claríssima 510ML,1,2025-02-03 23:08:34.714983,Received - Cash
+Tato,Espeto de 7,1,2025-02-03 23:08:34.714983,Received - Cash
+Tato,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-02-03 23:08:34.714983,Received - Cash
+Tato,Espeto de 7,1,2025-02-03 23:08:34.714983,Received - Cash
+Tato,Água Mineral Claríssima 510ML,1,2025-02-03 23:08:34.714983,Received - Cash
+Felipe Garcia,Coca Cola Lata 350ml,1,2025-02-03 22:15:53.733343,em aberto
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2025-02-03 21:58:17.869624,em aberto
+Beach Bar,Água Mineral Claríssima 510ML,1,2025-02-03 21:41:19.573260,Received - Credit
+Beach Bar,Espeto de 7,1,2025-02-03 21:41:19.573260,Received - Credit
+Bruna Loureiro,Espeto de 7,1,2025-02-03 21:15:35.538181,Received - Credit
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-02-03 21:15:35.538181,Received - Credit
+Flávia Lopes,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-02-03 21:12:56.736767,Received - Credit
+Vini,Coca Cola Lata 350ml,1,2025-02-03 20:43:36.100838,em aberto
+João e Thais,Espeto de 7,1,2025-02-01 17:24:44.983606,Received - Debited
+João e Thais,Água Mineral Claríssima 510ML,1,2025-02-01 17:24:44.983606,Received - Debited
+João e Thais,Cerveja Lager Corona Garrafa 330ml,1,2025-02-01 17:24:44.983606,Received - Debited
+João e Thais,Espeto de 7,1,2025-02-01 17:24:44.983606,Received - Debited
+Lao,Espeto de 7,1,2025-02-01 17:02:57.927841,Received - Pix
+Lao,Água Mineral Claríssima 510ML,1,2025-02-01 17:02:57.927841,Received - Pix
+Lao,Espeto de 7,1,2025-02-01 17:02:57.927841,Received - Pix
+Lao,Cerveja Lager Corona Garrafa 330ml,2,2025-02-01 17:02:57.927841,Received - Pix
+Lao,Cerveja Stella Artois Pure Gold Puro Malte Long Neck 330ml,1,2025-02-01 17:02:57.927841,Received - Pix
+Tato,Brahma PROMO,1,2025-02-01 17:01:04.400885,Received - Pix
+Tato,Cerveja Lager Corona Garrafa 330ml,3,2025-02-01 17:01:04.400885,Received - Pix
+Tato,Brahma PROMO,1,2025-02-01 17:01:04.400885,Received - Pix
+Tato,Espeto de 7,1,2025-02-01 17:01:04.400885,Received - Pix
+Tato,Brahma PROMO,2,2025-02-01 17:01:04.400885,Received - Pix
+Tato,Água Mineral Claríssima 510ML,1,2025-02-01 17:01:04.400885,Received - Pix
+Bola,Brahma PROMO,1,2025-02-01 16:59:39.311165,Received - Credit
+Bola,Brahma PROMO,1,2025-02-01 16:59:39.311165,Received - Credit
+Bola,Brahma PROMO,1,2025-02-01 16:59:39.311165,Received - Credit
+Bola,Água Mineral Claríssima 510ML,1,2025-02-01 16:59:39.311165,Received - Credit
+Bola,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-02-01 16:59:39.311165,Received - Credit
+Bola,Espeto de 7,1,2025-02-01 16:59:39.311165,Received - Credit
+Alex,Espeto de 7,1,2025-02-01 16:56:31.215430,Received - Credit
+Alex,Brahma PROMO,1,2025-02-01 16:56:31.215430,Received - Credit
+Alex,Brahma PROMO,1,2025-02-01 16:56:31.215430,Received - Credit
+Patrick,Brahma PROMO,2,2025-02-01 16:32:25.765562,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2025-02-01 16:29:49.928430,Received - Credit
+Rene,Espeto de 7,1,2025-02-01 16:29:49.928430,Received - Credit
+Rene,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-02-01 16:29:49.928430,Received - Credit
+Rene,Brahma PROMO,2,2025-02-01 16:29:49.928430,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2025-02-01 16:29:49.928430,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2025-02-01 16:29:49.928430,Received - Credit
+Vini,Coca Cola Lata 350ml,1,2025-02-01 14:48:26.521426,em aberto
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2025-01-30 22:53:56.202376,Received - Pix
+Rene,Água Mineral Claríssima 510ML,1,2025-01-29 23:26:06.013505,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2025-01-29 23:26:06.013505,Received - Credit
+Rene,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-29 23:26:06.013505,Received - Credit
+Adriana Golob,Esfiha Recheada,2,2025-01-29 23:26:06.013000,Received - Pix
+Beach Bar,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-29 23:26:06.013000,Received - Credit
+Beach Bar,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-29 23:26:06.013000,Received - Debited
+Beach Bar,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-29 23:26:06.013000,Received - Debited
+Beach Bar,Brahma PROMO,3,2025-01-29 23:26:06.013000,Received - Debited
+Beach Bar,Cerveja Lager Corona Garrafa 330ml,5,2025-01-29 23:26:06.013000,Received - Debited
+Beach Bar,Cerveja Stella Artois Pure Gold Puro Malte Long Neck 330ml,4,2025-01-29 23:26:06.013000,Received - Debited
+Tato,Água Mineral Claríssima 510ML,1,2025-01-29 23:26:06.013000,Received - Cash
+Tato,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-29 23:26:06.013000,Received - Cash
+Beach Bar,"Gatorade - Isotônico Laranja, Garrafa 500ml",2,2025-01-29 23:26:06.013000,Received - Debited
+Beach Bar,Esfiha Recheada,1,2025-01-29 23:26:06.013000,Received - Credit
+Vini,Coca Cola Lata 350ml,1,2025-01-29 22:38:50.765115,em aberto
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-01-29 22:36:57.133993,Received - Credit
+Vini,Água Mineral Claríssima 510ML,1,2025-01-29 22:24:59.457478,em aberto
+Vini,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-29 22:24:46.817294,em aberto
+Vini,Guaraná Antarctica Lata 350ml,1,2025-01-28 23:24:50.987000,em aberto
+Vini,Guaraná Antarctica Lata 350ml,3,2025-01-28 22:39:00.902000,em aberto
+Rafaela Piva,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-28 22:21:35.299000,Received - Credit
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-01-28 21:57:59.046000,Received - Credit
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",2,2025-01-28 17:03:58.643000,Received - Credit
+Tato,Água Mineral Claríssima 510ML,1,2025-01-27 23:24:50.987445,Received - Cash
+Tato,Hot Dog,1,2025-01-27 23:24:50.987445,Received - Cash
+Tato,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-27 23:24:50.987445,Received - Cash
+Tato,Água Mineral Claríssima 510ML,1,2025-01-27 23:24:50.987445,Received - Cash
+Beach Bar,Água Mineral Claríssima 510ML,1,2025-01-27 23:24:50.987000,Received - Pix
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2025-01-27 23:24:50.987000,Received - Debited
+Bruna e Rafael,Água Mineral Claríssima 510ML,2,2025-01-27 23:24:50.987000,Received - Debited
+Vini,Hot Dog,1,2025-01-27 23:24:50.987000,em aberto
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Uva, Garrafa 500ml",2,2025-01-27 23:24:50.987000,Received - Credit
+Bruna e Rafael,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-27 23:24:50.987000,Received - Debited
+Flávia Pinheiro,Água Mineral Claríssima 510ML,1,2025-01-27 23:24:50.987000,Received - Debited
+Carol Gianotti,Água Mineral Claríssima 510ML,1,2025-01-27 23:24:50.987000,Received - Debited
+Bruna Loureiro,Água Mineral Claríssima 510ML,2,2025-01-27 23:24:50.987000,Received - Credit
+Beach Bar,Espeto de 7,2,2025-01-27 23:21:02.231887,Received - Credit
+Danilo Ribeiro,Água Mineral Claríssima 510ML,1,2025-01-27 23:09:48.468469,Received - Cash
+Danilo Ribeiro,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-27 23:09:48.468469,Received - Cash
+Beach Bar,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-27 22:54:05.446597,Received - Debited
+Felipe Garcia,Coca Cola Lata 350ml,1,2025-01-22 23:55:23.186516,Received - Debited
+Felipe Garcia,Água Mineral Claríssima 510ML,1,2025-01-22 23:55:23.186516,Received - Debited
+Patrick,Água Mineral Claríssima 510ML,1,2025-01-22 22:20:53.004000,Received - Debited
+Rene,Água Mineral Claríssima 510ML,1,2025-01-22 22:20:53.004000,Received - Pix
+Rodrigo Fernandes,"Gatorade - Isotônico Laranja, Garrafa 500ml",2,2025-01-22 22:20:53.004000,Received - Credit
+Patrick,Coca Cola Lata 350ml,1,2025-01-22 22:20:53.004000,Received - Debited
+Rodrigo Fernandes,Água Mineral Claríssima 510ML,1,2025-01-22 22:20:53.004000,Received - Credit
+Rafaela Piva,Água Mineral Claríssima 510ML,2,2025-01-22 22:20:53.004000,Received - Credit
+João e Thais,Água Mineral Claríssima 510ML,3,2025-01-22 22:20:53.004000,Received - Credit
+Rene,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-22 22:20:53.004000,Received - Pix
+Alex,Brahma PROMO,1,2025-01-22 22:20:53.004000,Received - Debited
+Lilian,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Debited
+Lilian,Cerveja Stella Artois Pure Gold Puro Malte Long Neck 330ml,1,2025-01-22 17:26:42.236000,Received - Debited
+Thati Lopes,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Debited
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Credit
+Victor Gasperine,Água Mineral Claríssima 510ML,3,2025-01-22 17:26:42.236000,Received - Credit
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Credit
+Felipe P,Água Mineral Claríssima 510ML,2,2025-01-22 17:26:42.236000,Received - Credit
+Mariane Denardi,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Pix
+Rafaela Piva,Espeto de 7,1,2025-01-22 17:26:42.236000,Received - Debited
+João e Thais,Água Mineral Claríssima 510ML,2,2025-01-22 17:26:42.236000,Received - Credit
+Rafaela Piva,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-22 17:26:42.236000,Received - Debited
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Credit
+Rafael Roma,Água Mineral Claríssima 510ML,1,2025-01-22 17:26:42.236000,Received - Debited
+Matheus Azevedo,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-21 17:03:58.643000,Received - Pix
+Tatiane Cardiani Nevolone,Água Mineral Claríssima 510ML,1,2025-01-21 17:03:58.643000,Received - Credit
+Gabriel Mestriner,Pão de  queijo,1,2025-01-21 17:03:58.643000,Received - Credit
+Matheus Azevedo,Água Mineral Claríssima 510ML,1,2025-01-21 17:03:58.643000,Received - Pix
+Gabriel Mestriner,Água Mineral Claríssima 510ML,1,2025-01-21 17:03:58.643000,Received - Credit
+Flávia Lopes,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-21 17:03:58.643000,Received - Credit
+Matheus Azevedo,Coca Cola Zero Lata 350ml,1,2025-01-21 17:03:58.643000,Received - Pix
+Matheus Azevedo,Pizza Funchal,1,2025-01-21 17:03:58.643000,Received - Pix
+Gabriel Mestriner,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",2,2025-01-21 17:03:58.643000,Received - Credit
+Denis,Espeto de 7,1,2025-01-21 17:03:58.643000,Received - Debited
+Vini,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-21 08:52:57.286796,em aberto
+Vini,Espeto de 7,3,2025-01-21 08:52:40.379049,em aberto
+Victor Gasperine,Água Mineral Claríssima 510ML,2,2025-01-21 01:44:45.228852,Received - Debited
+Beach Bar,Água Mineral Claríssima 510ML,1,2025-01-21 01:38:15.942868,Received - Credit
+João Gabriel,Guaraná Antarctica Lata 350ml,1,2025-01-21 01:37:14.362720,Received - Credit
+João Gabriel,Água Mineral Claríssima 510ML,1,2025-01-21 01:37:14.362720,Received - Credit
+bob,Água Mineral Claríssima 510ML,1,2025-01-21 01:32:33.698458,Received - Pix
+bob,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-21 01:32:33.698458,Received - Pix
+Patrick,Água Mineral Claríssima 510ML,1,2025-01-21 01:24:05.117129,Received - Credit
+Bola,Espeto de 7,1,2025-01-21 01:17:06.730563,Received - Credit
+Bola,Coca Cola Zero Lata 350ml,1,2025-01-21 01:17:06.730563,Received - Credit
+Bola,Água Mineral Claríssima 510ML,1,2025-01-21 01:17:06.730563,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2025-01-21 01:07:40.561546,Received - Credit
+Carol Chofete e Rodrigo F,Espeto de Coração,1,2025-01-21 01:07:40.561546,Received - Credit
+Carol Chofete e Rodrigo F,Espeto de 7,1,2025-01-21 01:07:40.561546,Received - Credit
+Tato,Espeto de Coração,1,2025-01-21 00:41:30.060550,Received - Cash
+Tato,Água Mineral Claríssima 510ML,1,2025-01-21 00:41:30.060550,Received - Cash
+Tato,Espeto de 7,1,2025-01-21 00:41:30.060550,Received - Cash
+Tato,Água Mineral Claríssima 510ML,1,2025-01-21 00:41:30.060550,Received - Cash
+Danilo Ribeiro,Coca Cola Lata 350ml,1,2025-01-21 00:23:18.976557,Received - Pix
+Danilo Ribeiro,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-21 00:23:18.976557,Received - Pix
+Danilo Ribeiro,Água Mineral Claríssima 510ML,1,2025-01-21 00:23:18.976557,Received - Pix
+Danilo Ribeiro,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-21 00:23:18.976557,Received - Pix
+Vini,Guaraná Antarctica Lata 350ml,1,2025-01-21 00:17:42.533122,em aberto
+Vini,"Gatorade - Isotônico Uva, Garrafa 500ml",2,2025-01-21 00:06:47.707487,em aberto
+Andre Mazzer,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-21 00:05:16.854130,Received - Credit
+Beach Bar,Espeto de 7,1,2025-01-20 23:52:46.296431,Received - Debited
+Beach Bar,Queijo Coalho Espeto,1,2025-01-20 23:52:46.296431,Received - Debited
+Breno Vieira,Espeto de 7,1,2025-01-20 23:48:34.009877,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-20 23:48:34.009877,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-20 23:48:34.009877,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-20 23:48:34.009877,Received - Pix
+Carol Reginato,Água Mineral Claríssima 510ML,1,2025-01-20 22:55:15.390134,Received - Credit
+Carol Reginato,Água Mineral Claríssima 510ML,1,2025-01-20 22:55:15.390134,Received - Credit
+Edimar Santos,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-20 22:38:27.623332,Received - Credit
+Edimar Santos,Água Mineral Claríssima 510ML,3,2025-01-20 22:38:27.623332,Received - Credit
+Bola,Brahma PROMO,4,2025-01-20 22:15:21.989347,Received - Debited
+Bola,Água Mineral Claríssima 510ML,2,2025-01-20 22:15:21.989347,Received - Debited
+Bola,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-20 22:15:21.989347,Received - Debited
+Laila Grandino,Água Mineral Claríssima 510ML,1,2025-01-20 22:02:08.101732,Received - Credit
+Bruna Loureiro,Água Mineral Claríssima 510ML,2,2025-01-20 22:01:56.277059,Received - Credit
+Carol Gianotti,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-20 21:58:58.794650,Received - Credit
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2025-01-20 21:58:58.794650,Received - Credit
+AKEMI,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-20 21:58:42.245174,Received - Credit
+G PACHECO,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2025-01-20 21:58:09.746647,Received - Credit
+Milena,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-20 21:57:47.568993,Received - Credit
+Eduardo Lima,Água Mineral Claríssima 510ML,2,2025-01-20 21:57:21.173440,Received - Credit
+Eduardo Lima,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-20 21:57:21.173440,Received - Credit
+Lilian,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-20 21:57:07.964979,Received - Credit
+Lilian,Brahma PROMO,4,2025-01-20 21:57:07.964979,Received - Credit
+Claudio Baffa,"Gatorade - Isotônico Laranja, Garrafa 500ml",2,2025-01-20 21:56:49.125606,Received - Credit
+Claudio Baffa,Água Mineral Claríssima 510ML,6,2025-01-20 21:56:49.125606,Received - Credit
+Aline Soares,Água Mineral Claríssima 510ML,1,2025-01-20 21:56:27.206892,Received - Credit
+Aline Soares,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-20 21:56:27.206892,Received - Credit
+Aline Soares,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-20 21:56:27.206892,Received - Credit
+João Chedi,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-20 21:42:24.039343,em aberto
+Patrick,Espeto de 7,1,2025-01-15 01:27:05.135808,Received - Credit
+Malacize,Esfiha Recheada,1,2025-01-15 01:15:29.908530,Received - Pix
+Malacize,Guaraná Antarctica Lata 350ml,1,2025-01-15 01:15:29.908530,Received - Pix
+Malacize,Coca Cola Lata 350ml,1,2025-01-15 01:15:29.908530,Received - Pix
+Vinícius Alaque,Coca Cola Lata 350ml,1,2025-01-15 01:14:29.965410,Received - Debited
+Vinícius Alaque,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-15 01:14:29.965410,Received - Debited
+Vinícius Alaque,Espeto de 7,1,2025-01-15 01:14:29.965410,Received - Debited
+Gabriel Mestriner,Espeto de 7,1,2025-01-15 01:13:52.956202,Received - Debited
+Gabriel Mestriner,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-15 01:13:52.956202,Received - Debited
+Gabriel Mestriner,Espeto de 7,1,2025-01-15 01:13:52.956202,Received - Debited
+Gabriel Mestriner,Espeto de 7,1,2025-01-15 01:13:52.956202,Received - Debited
+Karen,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-15 01:12:27.738104,Received - Pix
+Karen,Guaraná Antarctica Lata 350ml,1,2025-01-15 01:12:27.738104,Received - Pix
+Karen,Queijo Coalho Espeto,1,2025-01-15 01:12:27.738104,Received - Pix
+Carol Gianotti,Espeto de 7,1,2025-01-15 00:16:12.686167,Received - Credit
+Carol Gianotti,Queijo Coalho Espeto,1,2025-01-15 00:16:12.686167,Received - Credit
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2025-01-15 00:16:12.686167,Received - Credit
+Carol Reginato,Água Mineral Claríssima 510ML,1,2025-01-15 00:15:55.758171,Received - Credit
+Nathan Mendonça,Espeto de 7,1,2025-01-15 00:13:40.752991,Received - Debited
+Rafaela Piva,Espeto de 7,1,2025-01-15 00:13:09.953735,Received - Credit
+Nicole Sartorelli,Espeto de 7,1,2025-01-14 23:39:24.114182,Received - Pix
+Beach Bar,Espeto de 7,1,2025-01-14 23:22:28.861446,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-14 23:10:19.790258,Received - Pix
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-14 23:07:05.756062,Received - Credit
+Tatiane Cardiani Nevolone,Esfiha Recheada,1,2025-01-14 23:07:05.756062,Received - Credit
+Tatiane Cardiani Nevolone,Guaraná Antarctica Lata 350ml,1,2025-01-14 23:07:05.756062,Received - Credit
+Rafael Queiroz,Coca Cola Lata 350ml,1,2025-01-14 22:11:35.092213,Received - Pix
+Rafael Queiroz,Esfiha Recheada,1,2025-01-14 22:11:35.092213,Received - Pix
+Rafael Queiroz,Água Mineral Claríssima 510ML,1,2025-01-14 22:11:35.092213,Received - Pix
+Rafael Queiroz,Água Mineral Claríssima 510ML,1,2025-01-14 22:11:35.092213,Received - Pix
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2025-01-14 22:05:40.650199,Received - Debited
+Flávia Lopes,Coca Cola Zero Lata 350ml,1,2025-01-14 22:05:40.650199,Received - Debited
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2025-01-14 22:05:40.650199,Received - Debited
+Beach Bar,Esfiha Recheada,1,2025-01-14 21:08:02.224495,Received - Debited
+João e Thais,Água Mineral Claríssima 510ML,1,2025-01-14 21:06:19.641371,Received - Debited
+Beach Bar,Água Mineral Claríssima 510ML,1,2025-01-14 21:02:58.947671,Received - Credit
+Beach Bar,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-14 21:02:58.947671,Received - Credit
+GLEICE,Água Mineral Claríssima 510ML,1,2025-01-14 20:31:59.027534,Received - Debited
+Adriana Golob,Água Mineral Claríssima 510ML,2,2025-01-14 20:30:57.553329,Received - Debited
+Karen,Água Mineral Claríssima 510ML,2,2025-01-14 02:30:55.020544,Received - Credit
+Gustavo Ferreira,Coca Cola Lata 350ml,1,2025-01-14 02:30:26.578178,Received - Credit
+Gustavo Ferreira,Esfiha Recheada,2,2025-01-14 02:30:26.578178,Received - Credit
+Vinícius Alaque,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-14 02:28:28.174684,Received - Debited
+Vinícius Alaque,Água Mineral Claríssima 510ML,1,2025-01-14 02:28:28.174684,Received - Debited
+João e Thais,Água Mineral Claríssima 510ML,1,2025-01-14 02:19:40.480159,Received - Debited
+Bola,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-14 01:35:27.921842,Received - Credit
+Rene,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-14 01:34:52.599088,Received - Credit
+Carol Chofete e Rodrigo F,"Gatorade - Isotônico Laranja, Garrafa 500ml",2,2025-01-14 01:20:04.053850,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2025-01-14 01:20:04.053850,Received - Credit
+Danilo Ribeiro,Coca Cola Lata 350ml,1,2025-01-14 00:27:07.862666,Received - Pix
+Danilo Ribeiro,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2025-01-14 00:27:07.862666,Received - Pix
+Danilo Ribeiro,Água Mineral Claríssima 510ML,1,2025-01-14 00:27:07.862666,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-14 00:25:43.642774,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-14 00:25:43.642774,Received - Pix
+Edimar Santos,Água Mineral Claríssima 510ML,1,2025-01-13 23:35:58.697979,Received - Credit
+Edimar Santos,Água Mineral Claríssima 510ML,1,2025-01-13 23:35:58.697979,Received - Credit
+Carol Gianotti,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-13 23:34:02.854723,Received - Credit
+Carol Gianotti,Esfiha Recheada,1,2025-01-13 23:34:02.854723,Received - Credit
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2025-01-13 23:34:02.854723,Received - Credit
+Rafael Queiroz,Guaraná Antarctica Lata 350ml,1,2025-01-13 22:50:35.265040,Received - Pix
+Rafael Queiroz,Esfiha Recheada,1,2025-01-13 22:50:35.265040,Received - Pix
+Denis,Coca Cola Zero Lata 350ml,1,2025-01-13 22:38:15.242640,Received - Pix
+Denis,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-13 22:38:15.242640,Received - Pix
+Denis,Coca Cola Lata 350ml,1,2025-01-13 22:38:15.242640,Received - Pix
+Gabriel Mestriner,Água Mineral Claríssima 510ML,1,2025-01-13 20:44:28.187139,Received - Credit
+Rafaela Piva,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-13 20:43:47.206645,Received - Credit
+Carol Gianotti,"Gatorade - Isotônico Laranja, Garrafa 500ml",1,2025-01-13 17:03:58.643000,Received - Credit
+Rene,Água Mineral Claríssima 510ML,2,2025-01-13 17:03:58.643000,Received - Debited
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-01-13 17:03:58.643000,Received - Credit
+Vini,Pão de  queijo,1,2025-01-13 17:03:58.643000,em aberto
+Bruna Loureiro,Água Mineral Claríssima 510ML,2,2025-01-13 17:03:58.643000,Received - Credit
+Bruna Loureiro,Pizza Funchal,1,2025-01-13 17:03:58.643000,Received - Credit
+Vini,Guaraná Antarctica Lata 350ml,1,2025-01-13 17:03:58.643000,em aberto
+Tato,Água Mineral Claríssima 510ML,1,2025-01-13 17:03:58.643000,Received - Cash
+Vini,Espeto de 7,1,2025-01-13 17:03:58.643000,em aberto
+Gustavo Ferreira,Brahma PROMO,2,2025-01-13 17:03:58.643000,Received - Pix
+Adriana Golob,Água Mineral Claríssima 510ML,1,2025-01-13 17:03:58.643000,Received - Debited
+Tato,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-13 17:03:58.643000,Received - Cash
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-01-13 17:03:58.643000,Received - Credit
+Rene,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-13 17:03:58.643000,Received - Debited
+Carol Gianotti,Água Mineral Claríssima 510ML,1,2025-01-13 17:03:58.643000,Received - Credit
+Vini,Coca Cola Zero Lata 350ml,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Coca Cola Lata 350ml,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Esfiha Recheada,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Esfiha Recheada,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Coca Cola Lata 350ml,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Coca Cola Zero Lata 350ml,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Coca Cola Lata 350ml,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Coca Cola Zero Lata 350ml,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Espeto de Carne,1,2025-01-10 22:58:15.983751,em aberto
+Vini,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Coxinha de frango,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,Espeto de Carne,1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-10 22:58:15.983751,Received - Pix
+Vini,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-10 22:58:15.983751,Received - Pix
+Denis,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-10 16:12:56.419305,Received - Credit
+Denis,"Gatorade - Isotônico Limão, Garrafa 500ml",2,2025-01-10 16:12:56.419305,Received - Credit
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2025-01-10 16:11:50.301942,Received - Debited
+Tato,Água Mineral Claríssima 510ML,1,2025-01-10 16:11:40.161286,Received - Cash
+Bola,Água Mineral Claríssima 510ML,1,2025-01-10 16:10:40.596685,Received - Debited
+Pedro Amaral,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2025-01-10 16:10:12.146922,Received - Debited
+Carol Gianotti,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-09 21:27:17.505346,Received - Debited
+Carol Gianotti,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-09 21:27:17.505346,Received - Debited
+Tatiane Cardiani Nevolone,Água Mineral Claríssima 510ML,1,2025-01-09 21:21:43.623678,Received - Debited
+Gabriel Mestriner,Água Mineral Claríssima 510ML,1,2025-01-09 21:20:44.731916,Received - Debited
+Gabriel Mestriner,Coxinha de frango,1,2025-01-09 21:20:44.731916,Received - Debited
+Gabriel Mestriner,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-09 21:20:44.731916,Received - Debited
+Flávia Lopes,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-09 21:20:30.635247,Received - Credit
+Flávia Pinheiro,Água Mineral Claríssima 510ML,1,2025-01-09 21:20:14.199688,Received - Credit
+Francine Rodrigues,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-09 21:19:50.996531,Received - Credit
+Vini,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-09 17:03:58.643000,em aberto
+João Chedi,Água Mineral Claríssima 510ML,1,2025-01-09 17:03:58.643000,em aberto
+Carol Gianotti,Espeto de 7,1,2025-01-09 17:03:58.643000,Received - Credit
+Eduardo Lima,Coca Cola Zero Lata 350ml,3,2025-01-09 17:03:58.643000,Received - Debited
+Tato,Água Mineral Claríssima 510ML,1,2025-01-09 17:03:58.643000,Received - Cash
+João Chedi,Coca Cola Lata 350ml,1,2025-01-09 17:03:58.643000,em aberto
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2025-01-08 23:14:46.156605,Received - Debited
+Denis,Esfiha Recheada,1,2025-01-08 23:14:17.582178,Received - Credit
+Denis,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-08 23:14:17.582178,Received - Credit
+Denis,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-08 23:14:17.582178,Received - Credit
+Tato,Água Mineral Claríssima 510ML,3,2025-01-08 23:03:55.799681,Received - Cash
+Carol Reginato,Esfiha Recheada,1,2025-01-08 22:25:38.999215,Received - Credit
+Laila Grandino,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-08 22:24:48.614860,Received - Credit
+Bruna Loureiro,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-08 22:23:57.919040,Received - Credit
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-08 22:23:46.308392,Received - Credit
+João Chedi,Coca Cola Lata 350ml,1,2025-01-08 17:03:58.643000,em aberto
+Vini,Pão de  queijo,1,2025-01-08 17:03:58.643000,em aberto
+Carol Gianotti,Água Mineral Claríssima 510ML,1,2025-01-08 17:03:58.643000,Received - Credit
+Vini,Pão de  queijo,1,2025-01-08 17:03:58.643000,em aberto
+Rafael Queiroz,Coca Cola Zero Lata 350ml,1,2025-01-08 17:03:58.643000,Received - Pix
+Rene,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2025-01-08 17:03:58.643000,Received - Debited
+Carol Gianotti,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-08 17:03:58.643000,Received - Credit
+Aline Soares,Água Mineral Claríssima 510ML,2,2025-01-08 17:03:58.643000,em aberto
+Rafael Queiroz,Água Mineral Claríssima 510ML,3,2025-01-08 17:03:58.643000,Received - Pix
+Carol Gianotti,Queijo Coalho Espeto,1,2025-01-08 17:03:58.643000,Received - Credit
+Rafael Queiroz,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-08 17:03:58.643000,Received - Pix
+Beach Bar,Espeto de Carne,1,2025-01-07 23:20:18.974361,Received - Cash
+Beach Bar,Água Mineral Claríssima 510ML,1,2025-01-07 23:20:18.974361,Received - Cash
+Bola,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-07 23:08:31.887837,Received - Debited
+Enzo Puga,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-07 23:07:17.101759,Received - Credit
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2025-01-07 22:05:18.354064,Received - Debited
+Flávia Lopes,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2025-01-07 22:05:18.354064,Received - Debited
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2025-01-07 22:05:18.354064,Received - Debited
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-07 21:33:59.223332,Received - Pix
+Breno Vieira,Água Mineral Claríssima 510ML,1,2025-01-07 21:33:59.223332,Received - Pix
+Beach Bar,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-07 21:06:25.472342,Received - Cash
+Beach Bar,Coca Cola Zero Lata 350ml,1,2025-01-07 21:05:11.374022,Received - Pix
+João e Thais,Água Mineral Claríssima 510ML,1,2025-01-07 21:04:57.706230,Received - Credit
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2025-01-07 21:02:12.745686,Received - Credit
+Pamela,Brahma Chopp 300ML,1,2025-01-07 00:54:01.612548,Received - Debited
+Pamela,Espeto de Carne,1,2025-01-07 00:54:01.612548,Received - Debited
+Pamela,Brahma Chopp 300ML,1,2025-01-07 00:54:01.612548,Received - Debited
+Pamela,Brahma Chopp 300ML,1,2025-01-07 00:54:01.612548,Received - Debited
+Adriana Golob,Coca Cola Zero Lata 350ml,1,2025-01-07 00:53:15.427989,Received - Pix
+Adriana Golob,Espeto de Carne,1,2025-01-07 00:53:15.427989,Received - Pix
+Andre Mazzer,Água Mineral Claríssima 510ML,1,2025-01-07 00:45:25.360339,Received - Credit
+Andre Mazzer,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-07 00:45:25.360339,Received - Credit
+Danilo Ribeiro,Água Mineral Claríssima 510ML,1,2025-01-07 00:36:44.467761,Received - Pix
+Danilo Ribeiro,Água Mineral Claríssima 510ML,2,2025-01-07 00:36:44.467761,Received - Pix
+Edimar Santos,Água Mineral Claríssima 510ML,1,2025-01-07 00:18:11.018058,Received - Debited
+Edimar Santos,Água Mineral Claríssima 510ML,1,2025-01-07 00:18:11.018058,Received - Debited
+Edimar Santos,Espeto de Carne,1,2025-01-07 00:18:11.018058,Received - Debited
+Carol Gianotti,Espeto de Carne,1,2025-01-07 00:14:15.859274,Received - Credit
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2025-01-07 00:14:15.859274,Received - Credit
+JULIA TANABI,Água Mineral Claríssima 510ML,3,2025-01-07 00:02:10.231670,Received - Debited
+Felipe Garcia,Coca Cola Lata 350ml,1,2025-01-06 23:56:11.288425,Received - Debited
+Felipe Garcia,Queijo Coalho Espeto,1,2025-01-06 23:56:11.288425,Received - Debited
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2025-01-06 23:47:37.110900,Received - Debited
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2025-01-06 23:47:37.110900,Received - Debited
+Rafael Queiroz,Coca Cola Lata 350ml,1,2025-01-06 23:29:42.151854,Received - Cash
+Rafael Queiroz,Queijo Coalho Espeto,1,2025-01-06 23:29:42.151854,Received - Cash
+Rafael Queiroz,Água Mineral Claríssima 510ML,2,2025-01-06 23:29:42.151854,Received - Cash
+Tato,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2025-01-06 23:07:59.978354,Received - Cash
+Tato,Água Mineral Claríssima 510ML,1,2025-01-06 23:07:59.978354,Received - Cash
+Tato,Espeto de Carne,2,2025-01-06 23:07:59.978354,Received - Cash
+João e Thais,Água Mineral Claríssima 510ML,1,2025-01-06 22:59:04.592361,Received - Debited
+João e Thais,Água Mineral Claríssima 510ML,1,2024-12-28 15:52:45.227908,Received - Credit
+João e Thais,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2024-12-28 15:52:45.227908,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,1,2024-12-28 15:52:11.133801,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,1,2024-12-28 15:52:11.133801,Received - Credit
+Elizandra Moraes e Alex,Água Mineral Claríssima 510ML,1,2024-12-28 15:52:11.133801,Received - Credit
+Carol Gianotti,Queijo Coalho Espeto,1,2024-12-28 15:19:26.083952,Received - Debited
+Carol Gianotti,Coca Cola Lata 350ml,1,2024-12-28 15:19:26.083952,Received - Debited
+Carol Gianotti,Coca Cola Lata 350ml,1,2024-12-28 15:19:26.083952,Received - Debited
+Carol Gianotti,Queijo Coalho Espeto,1,2024-12-28 15:19:26.083952,Received - Debited
+Carol Gianotti,Queijo Coalho Espeto,1,2024-12-28 15:19:26.083952,Received - Debited
+Rene,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2024-12-28 15:06:26.520659,Received - Credit
+Rene,Água Mineral Claríssima 510ML,2,2024-12-28 15:06:26.520659,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2024-12-28 15:06:26.520659,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2024-12-28 15:06:26.520659,Received - Credit
+Rene,"Gatorade - Isotônico Limão, Garrafa 500ml",1,2024-12-28 15:06:26.520659,Received - Credit
+Rene,Água Mineral Claríssima 510ML,1,2024-12-28 15:06:26.520659,Received - Credit
+Pamela,Coca Cola Lata 350ml,1,2024-12-28 15:06:10.468919,Received - Debited
+Pamela,Queijo Coalho Espeto,1,2024-12-28 15:06:10.468919,Received - Debited
+Bola,Cerveja Lager Corona Garrafa 330ml,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Cerveja Lager Corona Garrafa 330ml,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Bola,Brahma Chopp 300ML,1,2024-12-28 14:47:08.184159,Received - Credit
+Tato,Água Mineral Claríssima 510ML,1,2024-12-28 14:38:57.917240,Received - Cash
+Tato,Água Mineral Claríssima 510ML,1,2024-12-28 14:38:57.917240,Received - Cash
+Tato,Queijo Coalho Espeto,1,2024-12-28 14:38:57.917240,Received - Cash
+Tato,Guaraná Antarctica Lata 350ml,1,2024-12-28 14:38:57.917240,Received - Cash
+Gabriel Mestriner,Nutry Barra De Cereal Banana Aveia E Mel,6,2024-12-24 01:07:56.585898,Received - Debited
+Gabriel Mestriner,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-24 01:07:56.585898,Received - Debited
+Guilherme Luz,Água Mineral Claríssima 510ML,1,2024-12-24 01:07:15.418713,Received - Pix
+Guilherme Luz,Água Mineral Claríssima 510ML,1,2024-12-24 01:07:15.418713,Received - Pix
+Guilherme Luz,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2024-12-24 01:07:15.418713,Received - Pix
+Guilherme Luz,Coca Cola Lata 350ml,1,2024-12-24 01:07:15.418713,Received - Pix
+Carol Chofete e Rodrigo F,"Gatorade - Isotônico Morango Maracuja , Garrafa 500ml",1,2024-12-24 00:05:05.075052,Received - Credit
+Carol Chofete e Rodrigo F,Coca Cola Lata 350ml,2,2024-12-24 00:05:05.075052,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-24 00:05:05.075052,Received - Credit
+Rene,Água  c/ Gás 500ml,1,2024-12-20 03:57:15.087721,Received - Debited
+Rene,Água Mineral Claríssima 510ML,1,2024-12-20 03:57:15.087721,Received - Debited
+Rene,Água Mineral Claríssima 510ML,1,2024-12-20 03:57:15.087721,Received - Debited
+Rene,Coca Cola Lata 350ml,1,2024-12-20 03:57:15.087721,Received - Debited
+Eduardo Lima,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Brahma Chopp 300ML,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Brahma Chopp 300ML,1,2024-12-20 03:56:33.128604,Received - Debited
+Eduardo Lima,Brahma Chopp 300ML,1,2024-12-20 03:56:33.128604,Received - Debited
+Gabriel Galvão,Coca Cola Lata 350ml,1,2024-12-20 03:56:01.433938,Received - Debited
+Gabriel Galvão,Água Mineral Claríssima 510ML,1,2024-12-20 03:56:01.433938,Received - Debited
+Gabriel Galvão,Água Mineral Claríssima 510ML,1,2024-12-20 03:56:01.433938,Received - Debited
+Gabriel Galvão,Água Mineral Claríssima 510ML,1,2024-12-20 03:56:01.433938,Received - Debited
+Gabriel Galvão,Água Mineral Claríssima 510ML,1,2024-12-20 03:56:01.433938,Received - Debited
+Carol Chofete e Rodrigo F,Brahma Chopp 300ML,4,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Coca Cola Lata 350ml,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Brahma Chopp 300ML,3,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Brahma Chopp 300ML,4,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Coca Cola Lata 350ml,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-20 03:37:42.362166,Received - Credit
+Carol Chofete e Rodrigo F,Água Mineral Claríssima 510ML,1,2024-12-20 03:37:42.362166,Received - Credit
+Nicolas Brandão,Brahma Chopp 300ML,1,2024-12-20 02:51:53.432289,Received - Credit
+Felipe Garcia,Coca Cola Lata 350ml,1,2024-12-20 01:58:39.265603,Received - Debited
+Felipe Garcia,Guaraná Antarctica Lata 350ml,1,2024-12-20 01:58:39.265603,Received - Debited
+Felipe Garcia,Água Mineral Claríssima 510ML,1,2024-12-20 01:58:39.265603,Received - Debited
+Felipe Garcia,Coca Cola Lata 350ml,1,2024-12-20 01:58:39.265603,Received - Debited
+Felipe Garcia,Coca Cola Lata 350ml,1,2024-12-20 01:58:39.265603,Received - Debited
+Felipe Garcia,Água Mineral Claríssima 510ML,1,2024-12-20 01:58:39.265603,Received - Debited
+Felipe Garcia,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-20 01:58:39.265603,Received - Debited
+João Chedi,Brahma Chopp 300ML,1,2024-12-20 01:56:33.661512,Received - Debited
+João Chedi,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 01:56:33.661512,Received - Debited
+João Chedi,Água Mineral Claríssima 510ML,1,2024-12-20 01:56:33.661512,Received - Debited
+João Chedi,Brahma Chopp 300ML,1,2024-12-20 01:56:33.661512,Received - Debited
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2024-12-20 01:56:15.536249,Received - Credit
+Carol Gianotti,Coca Cola Lata 350ml,1,2024-12-20 01:56:15.536249,Received - Credit
+Carol Gianotti,Coca Cola Lata 350ml,1,2024-12-20 01:56:15.536249,Received - Credit
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2024-12-20 01:56:15.536249,Received - Credit
+Paulo Gianotti,Brahma Chopp 300ML,3,2024-12-20 01:54:59.716871,Received - Credit
+Paulo Gianotti,Brahma Chopp 300ML,1,2024-12-20 01:54:59.716871,Received - Credit
+Paulo Gianotti,Brahma Chopp 300ML,1,2024-12-20 01:54:59.716871,Received - Credit
+Paulo Gianotti,Brahma Chopp 300ML,1,2024-12-20 01:54:59.716871,Received - Credit
+Paulo Gianotti,Brahma Chopp 300ML,1,2024-12-20 01:54:59.716871,Received - Credit
+João e Thais,Coca Cola Lata 350ml,1,2024-12-20 01:35:54.096521,Received - Credit
+João e Thais,Água Mineral Claríssima 510ML,1,2024-12-20 01:35:54.096521,Received - Credit
+João e Thais,Coca Cola Lata 350ml,1,2024-12-20 01:35:54.096521,Received - Credit
+João e Thais,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 01:35:54.096521,Received - Credit
+João e Thais,Água Mineral Claríssima 510ML,1,2024-12-20 01:35:54.096521,Received - Credit
+João e Thais,Água Mineral Claríssima 510ML,1,2024-12-20 01:35:54.096521,Received - Credit
+João e Thais,Água Mineral Claríssima 510ML,1,2024-12-20 01:35:54.096521,Received - Credit
+Arthur Angeli,Água Mineral Claríssima 510ML,1,2024-12-20 01:34:24.193996,Received - Pix
+Arthur Angeli,Água Mineral Claríssima 510ML,1,2024-12-20 01:34:24.193996,Received - Pix
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2024-12-20 01:32:35.559369,Received - Credit
+Victor Gasperine,Coca Cola Lata 350ml,1,2024-12-20 01:32:35.559369,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,2,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,2,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Coca Cola Lata 350ml,1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Cerveja Lager Corona Garrafa 330ml,1,2024-12-20 01:13:18.777361,Received - Credit
+Elizandra Moraes e Alex,Água  c/ Gás 500ml,1,2024-12-20 01:13:18.777361,Received - Credit
+Cristiane Rosa,Brahma Chopp 300ML,2,2024-12-20 01:03:56.750005,Received - Credit
+Cristiane Rosa,Coca Cola Lata 350ml,1,2024-12-20 01:03:56.750005,Received - Credit
+Igor Vitelo,Coca Cola Lata 350ml,1,2024-12-20 00:58:44.947398,Received - Pix
+Flávia Lopes,Água Mineral Claríssima 510ML,1,2024-12-20 00:42:50.439851,Received - Credit
+Rafaela Piva,Água Mineral Claríssima 510ML,1,2024-12-20 00:25:47.408629,Received - Credit
+Rafaela Piva,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-20 00:25:47.408629,Received - Credit
+Rafaela Piva,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-20 00:25:47.408629,Received - Credit
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2024-12-19 23:39:53.420623,Received - Credit
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 23:39:06.454991,Received - Credit
+Edimar Santos,Água Mineral Claríssima 510ML,1,2024-12-19 23:30:58.339502,Received - Credit
+Mariane Denardi,Água Mineral Claríssima 510ML,1,2024-12-19 22:48:45.465605,Received - Debited
+Alessandra Catto,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 22:23:49.128352,Received - Credit
+Alessandra Catto,Água Mineral Claríssima 510ML,1,2024-12-19 22:23:49.128352,Received - Credit
+Alessandra Catto,Água  c/ Gás 500ml,1,2024-12-19 22:23:49.128352,Received - Credit
+Carol Chofete,Água Mineral Claríssima 510ML,1,2024-12-19 00:51:00.857661,Received - Debited
+Rodrigo Fernandes,Esfiha Recheada,1,2024-12-19 00:46:18.812167,Received - Credit
+Rodrigo Fernandes,Coca Cola Lata 350ml,1,2024-12-19 00:46:18.812167,Received - Credit
+Rodrigo Fernandes,Esfiha Recheada,2,2024-12-19 00:46:18.812167,Received - Credit
+Rodrigo Fernandes,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 00:46:18.812167,Received - Credit
+Rodrigo Fernandes,Coca Cola Lata 350ml,1,2024-12-19 00:46:18.812167,Received - Credit
+Rodrigo Fernandes,Água de côco ,1,2024-12-19 00:46:18.812167,Received - Credit
+Victor Gasperine,Água Mineral Claríssima 510ML,1,2024-12-19 00:40:53.891410,Received - Debited
+Rene,Água de côco ,1,2024-12-19 00:40:11.030547,Received - Credit
+Rene,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 00:40:11.030547,Received - Credit
+Rene,Esfiha Recheada,1,2024-12-19 00:40:11.030547,Received - Credit
+Adriana Golob,Água de côco ,1,2024-12-19 00:16:34.482338,Received - Credit
+Claudio Baffa,Salada de Fruta,1,2024-12-19 00:15:21.614313,Received - Debited
+Claudio Baffa,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 00:15:21.614313,Received - Debited
+Claudio Baffa,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 00:15:21.614313,Received - Debited
+Carol Gianotti,Esfiha Recheada,1,2024-12-19 00:07:44.679722,Received - Credit
+Carol Gianotti,Guaraná Antarctica Lata 350ml,1,2024-12-19 00:07:44.679722,Received - Credit
+Carol Gianotti,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 00:07:44.679722,Received - Credit
+Carol Gianotti,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-19 00:07:44.679722,Received - Credit
+Carina Nevolone,Água de côco ,1,2024-12-18 22:23:41.186942,Received - Debited
+Laila Grandino,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-18 22:23:19.722753,Received - Credit
+Bruna Loureiro,Água de côco ,1,2024-12-18 22:22:59.367066,Received - Credit
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-18 21:56:24.179661,Received - Credit
+Tatiane Cardiani Nevolone,Água Mineral Claríssima 510ML,1,2024-12-18 21:56:24.179661,Received - Credit
+Tatiane Cardiani Nevolone,"Gatorade - Isotônico Uva, Garrafa 500ml",2,2024-12-18 21:56:24.179661,Received - Credit
+Enzo Puga,Água Mineral Claríssima 510ML,1,2024-12-18 20:40:53.455813,Received - Debited
+Enzo Puga,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-18 20:40:53.455813,Received - Debited
+Rafael Roma,Salada de Fruta,1,2024-12-18 12:49:57.846678,Received - Debited
+Matheus Azevedo,Água Mineral Claríssima 510ML,1,2024-12-18 12:49:43.940209,Received - Debited
+Matheus Azevedo,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-18 12:49:43.940209,Received - Debited
+Matheus Azevedo,Água Mineral Claríssima 510ML,3,2024-12-18 11:40:40.392547,Received - Debited
+Matheus Azevedo,"Gatorade - Isotônico Uva, Garrafa 500ml",1,2024-12-18 11:40:40.392547,Received - Debited
+Bruna Loureiro,Água Mineral Claríssima 510ML,1,2024-12-18 11:13:45.743484,Received - Credit
